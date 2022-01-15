@@ -12,7 +12,7 @@
     "bootstrap-material-design": "^4.1.1",
     "core-js": "^2.6.5",
     "date-fns": "^2.0.1",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "vue": "^2.6.10",
     "vuex": "^3.0.1"
   },
