@@ -1,4 +1,10 @@
-# md-notebook
+# Markdown Notebook
+
+> A simple markdown notebook created with Vue.js 2 and Marked.
+
+## Preview
+
+<img src="./screenshots/markdown-notebook.png" alt="Markdown Notebook" />
 
 ## Project setup
 ```
@@ -24,6 +30,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
